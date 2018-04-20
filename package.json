@@ -1,0 +1,20 @@
+{
+  "name": "@loopindustries/eslint-config",
+  "version": "1.0.0",
+  "description": "Common lint rules for loopindustries",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/loopindustries/eslint-config-loop.git"
+  },
+  "author": "loop-dev",
+  "peerDependencies": {
+    "babel-eslint": ">= 8"
+  },
+  "devDependencies": {
+    "babel-eslint": "^8.2.3"
+  }
+}
