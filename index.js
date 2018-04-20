@@ -7,6 +7,7 @@ module.exports = {
     semi: [2, "never"],
   },
   env: {
-    jest: true
+    jest: true,
+    browser: true
   }
 }
