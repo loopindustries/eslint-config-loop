@@ -3,6 +3,7 @@ module.exports = {
   extends: "airbnb",
   plugins: ["react", "jsx-a11y", "import"],
   rules: {
+    "arrow-parens": 0,
     "import/prefer-default-export": 0,
     "jsx-a11y/anchor-is-valid": 0,
     "jsx-a11y/label-has-for": 0,
