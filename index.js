@@ -6,6 +6,7 @@ module.exports = {
     "arrow-parens": 0,
     "import/prefer-default-export": 0,
     "jsx-a11y/anchor-is-valid": 0,
+    "jsx-a11y/click-events-have-key-events": 0,
     "jsx-a11y/label-has-for": 0,
     "jsx-a11y/no-autofocus": 0,
     "no-restricted-syntax": 0,
