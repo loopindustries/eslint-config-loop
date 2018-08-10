@@ -20,6 +20,7 @@ module.exports = {
     "react/jsx-filename-extension": [1, { extensions: [".js", ".jsx"] }],
     "react/jsx-indent": 0,
     "react/prop-types": 0,
+    "react/no-array-index-key": 0,
     semi: [2, "never"]
   },
   env: {
