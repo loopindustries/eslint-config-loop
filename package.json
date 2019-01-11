@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "Common lint rules for loopindustries",
   "main": "index.js",
+  "files": ["index.js"],
   "scripts": {
     "test": "test"
   },
